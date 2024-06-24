@@ -1,1 +1,1 @@
-# Arquivos texto para serem usados como teste
+# Gerador de textos aleatórios utilizado nos testes
