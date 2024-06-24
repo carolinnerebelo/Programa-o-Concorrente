@@ -1,1 +1,0 @@
-# Versão concorrente do RSA
